@@ -1,5 +1,15 @@
 # Welcome to EasyHook - The reinvention of Windows API Hooking
 
+## 示例HOOK测试未成功
+
+本项目中新增自己测试的新的easyhook项目，测试成功HOOK，项目地址
+
+在  [源代码](Examples\源代码) 样例中 详细演示了对窗体messboxShow的注入
+
+
+
+
+
 [![Join the chat at https://gitter.im/EasyHook/EasyHook](https://badges.gitter.im/EasyHook/EasyHook.svg)](https://gitter.im/EasyHook/EasyHook?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Master branch: [![Master branch build status](https://ci.appveyor.com/api/projects/status/278ff5njpjnarayd/branch/master?svg=true)](https://ci.appveyor.com/project/spazzarama/easyhook/branch/master)
@@ -28,7 +38,7 @@ Report issues at: https://github.com/EasyHook/EasyHook/issues
 
 ## License
     Copyright (c) 2009 Christoph Husse & Copyright (c) 2012 Justin Stenning
-
+    
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
     in the Software without restriction, including without limitation the rights
